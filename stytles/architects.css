@@ -7,4 +7,35 @@
     font-weight: 400;
     font-style: normal;
   }
- 
+
+  /* shared styles */
+  .display-flex{
+    display: flex;
+  }
+  /* dark 02 */
+  .text-gray{
+    color: #424242;
+  }
+  /* dark 03 */
+  .text-light-gray{
+ color:#727272 ;
+  }
+
+  /* header styles */
+
+  /* navbar related styles */
+  .navbar{
+  
+  }
+
+
+  .nav-items{
+   list-style: none;
+   margin-right: 30px;
+  }
+
+  .nav-links{
+    text-decoration: none;
+    font-weight: 500;
+    color: #424242;
+  }
